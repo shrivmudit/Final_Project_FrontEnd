@@ -44,3 +44,17 @@ The Website is Running Fine and Good. Tested already. Some work is needed in the
 
 We can add the functionality in this website which will help to evaluate the marks of students and send their marks using their mail ID. 
 Proctoring can also be implemented.
+
+## SNAPSHOTS
+
+Admin Side- 
+
+<img width="1792" alt="Screenshot 2021-10-12 at 11 26 07 PM" src="https://user-images.githubusercontent.com/46938418/137005996-4c351d5a-805b-4895-b9c9-c5cc3f82e4df.png">
+
+<img width="1792" alt="Screenshot 2021-10-12 at 11 26 14 PM" src="https://user-images.githubusercontent.com/46938418/137006012-cfd47bbc-9b12-4535-9d6f-6ec803ea0ace.png">
+
+<img width="1792" alt="Screenshot 2021-10-12 at 11 26 22 PM" src="https://user-images.githubusercontent.com/46938418/137006022-8108914f-e700-4669-9e6c-eb04c44fff08.png">
+
+Student Side -
+
+<img width="1792" alt="Screenshot 2021-10-12 at 11 26 42 PM" src="https://user-images.githubusercontent.com/46938418/137006029-0172d484-3011-46ba-b8c3-2e0d0373c831.png">
